@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Azat Jumayev",
+    "label": "Principal Security Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "azat@gmail.com",
+    "phone": "5075815040",
+    "url": "https://azju.com",
+    "summary": "A summary of Azat Juma…",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,13 +16,13 @@
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "username": "azat",
+      "url": "https://twitter.com/azat"
     }]
   },
   "work": [{
     "name": "Company",
-    "position": "President",
+    "position": "Secuirty Engineer",
     "url": "https://company.com",
     "startDate": "2013-01-01",
     "endDate": "2014-01-01",
